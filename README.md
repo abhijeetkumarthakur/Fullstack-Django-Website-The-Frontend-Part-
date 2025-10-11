@@ -1,8 +1,11 @@
 # 🎨 Introducing “CartoonCraze” — A Fully Animated Cartoon Website! 🌈🎬  
 
 Hey everyone! 👋  
-I’m excited to share my latest **Fullstack Project (The Frontend Part) ** — **“CartoonCraze”**,  
+I’m excited to share my **Fullstack Project (Frontend Part)** — **“CartoonCraze”**,  
 a fun-filled and nostalgic website that brings back the golden memories of our childhood cartoon days 🐰📺✨  
+
+🚀 **The Frontend is live and deployed on Vercel!**  
+🔗 Visit it here: [CartoonCraze Frontend](https://fullstack-django-website-the-fronte.vercel.app/)  
 
 ---
 
@@ -23,12 +26,12 @@ From smooth scroll animations to a background video setup, every detail is craft
 
 ## 🎨 Website Features  
 
-✨ **Glassmorphism UI** with background video  
+✨ **Glassmorphism UI** with a background video  
 🏠 Sections — *Home*, 🖼️ *Gallery*, 🔥 *Trending*, ⭐ *Reviews*, ✉️ *Contact*  
-🎞️ Animated transitions and scroll effects  
+🎞️ Animated transitions & scroll effects  
 🎯 Custom **Favicon**, **Mouse Cursor**, and **Marquee Tag**  
 🔗 Footer with **GitHub**, **LinkedIn**, **Email**, and **Website** links  
-🌀 Smooth **hover** and **scroll animations**  
+🌀 Smooth **hover** & **scroll animations**  
 
 ---
 
@@ -40,19 +43,20 @@ From smooth scroll animations to a background video setup, every detail is craft
 
 ## 🧰 Frontend Summary  
 
-| Feature | Description |
-|----------|-------------|
-| 💎 Design | Glassmorphism with responsive layout |
-| 🎨 Styling | CSS3 animations, hover & transition effects |
-| ⚙️ Functionality | JavaScript interactivity & scroll-based animations |
-| 🧠 Experience | Fun, joyful, and nostalgic cartoon theme |
+| Feature         | Description                                   |
+|------------------|-----------------------------------------------|
+| 💎 Design        | Glassmorphism with responsive layout          |
+| 🎨 Styling       | CSS3 animations, hover & transition effects   |
+| ⚙️ Functionality | JavaScript interactivity & scroll-based effects |
+| 🧠 Experience    | Fun, joyful, and nostalgic cartoon theme      |
 
 ---
 
 ## 👨‍💻 Developer Info  
 
-**This Repository Belong’s to Myself — Shaif Khan** 💫  
+**This Repository Belongs to Myself — Shaif Khan** 💫  
 🎯 *Tech Meets Nostalgia!* 🚀  
+🌐 **Live Frontend Hosted On:** [CartoonCraze (Vercel)](https://fullstack-django-website-the-fronte.vercel.app/)  
 
 ---
 
